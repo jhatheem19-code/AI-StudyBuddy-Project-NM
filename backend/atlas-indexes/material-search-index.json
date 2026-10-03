@@ -1,0 +1,15 @@
+{
+  "name": "study_material_search",
+  "type": "search",
+  "definition": {
+    "mappings": {
+      "dynamic": false,
+      "fields": {
+        "user": { "type": "objectId" },
+        "title": { "type": "string" },
+        "subject": { "type": "string" },
+        "content": { "type": "string" }
+      }
+    }
+  }
+}

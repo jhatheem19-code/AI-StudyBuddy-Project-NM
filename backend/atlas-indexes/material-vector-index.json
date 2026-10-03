@@ -1,0 +1,22 @@
+{
+  "name": "study_material_vector",
+  "type": "vectorSearch",
+  "definition": {
+    "fields": [
+      {
+        "type": "vector",
+        "path": "embedding",
+        "numDimensions": 768,
+        "similarity": "cosine"
+      },
+      {
+        "type": "filter",
+        "path": "user"
+      },
+      {
+        "type": "filter",
+        "path": "material"
+      }
+    ]
+  }
+}

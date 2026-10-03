@@ -1,0 +1,166 @@
+{
+  "node_available": true,
+  "backend_syntax_checks": [
+    {
+      "file": "backend/test/health.test.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/server.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/app.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/config/db.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/utils/parseJson.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/utils/token.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/utils/chunkText.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/middleware/auth.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/middleware/upload.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/middleware/error.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/models/MaterialChunk.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/models/StudyPlan.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/models/ChatSession.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/models/User.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/models/Material.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/aiRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/authRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/studentRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/adminRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/materialRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/chatRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/routes/searchRoutes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/scripts/seedDemoUsers.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/dashboardController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/adminController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/materialController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/searchController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/chatController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/aiController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/controllers/authController.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/services/geminiService.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "file": "backend/src/services/indexingService.js",
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "all_backend_syntax_ok": true
+}
